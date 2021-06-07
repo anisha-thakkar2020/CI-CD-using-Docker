@@ -1,10 +1,3 @@
 # CI-CD-using-Docker
-This repository will run a java application in a tomcat container using  Jenkins and Docker
+This project is building the java project, build docker image after the build with tomcat running on docker container and then publish it to docker hub and deploy latest image to remote server.
 
-
-# Youtube Link
-
-https://www.youtube.com/watch?v=B1sjiq1wD_Y&feature=youtu.be
-
-# Blog Link
-https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2/
